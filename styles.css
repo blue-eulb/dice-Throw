@@ -1,0 +1,79 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  margin: 0px 5rem;
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+.dice1 { 
+  background-image: url("./images/dice1.png");
+  background-size: 200px, 200px;
+  height: 200px;
+  width: 200px;
+}
+.dice2 { 
+  background-image: url("./images/dice2.png");
+  background-size: 200px, 200px;
+  height: 200px;
+  width: 200px;
+}
+.dice3 { 
+  background-image: url("./images/dice3.png");
+  background-size: 200px, 200px;
+  height: 200px;
+  width: 200px;
+}
+.dice4 { 
+  background-image: url("./images/dice4.png");
+  background-size: 200px, 200px;
+  height: 200px;
+  width: 200px;
+}
+.dice5 { 
+  background-image: url("./images/dice5.png");
+  background-size: 200px, 200px;
+  height: 200px;
+  width: 200px;
+}
+.dice6 { 
+  background-image: url("./images/dice6.png");
+  background-size: 200px, 200px;
+  height: 200px;
+  width: 200px;
+}
